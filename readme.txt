@@ -1,9 +1,3 @@
-1,2
-resnet50_train.py,resnet_50.py
 
-3
-pretained.py
-
-4
-fashion_resnet50.py
-
+通过输入动物特征，匹配规则库来猜测动物。
+规则库可以乱序(并没有什么特别)。
