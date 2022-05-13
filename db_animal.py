@@ -1,0 +1,22 @@
+class animal:
+    hair = "" #毛发
+    chest = "" #有奶
+    feather = "" #羽毛
+    fly = "" #飞
+    meat = "" #吃肉
+    tooth = "" #犀利牙齿
+    claw = "" #爪子
+    eye = "" #眼睛向前
+    hoof = "" #蹄
+    ruminate = "" #反刍
+    color = "" #颜色
+    speckle = "" #斑点
+    stripe = "" #条纹
+    mammal = "" #哺乳动物
+    carnivore = "" #食肉动物
+    ungulates = "" #蹄类动物
+    bird = "" #鸟
+    neck = "" #脖子
+    leg = "" #长腿
+    lay_eggs = "" #生蛋
+    swim = "" #游泳
